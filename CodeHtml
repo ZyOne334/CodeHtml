@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ezy Sembiring</title>
+    <script src="https://kit.fontawesome.com/9d054bdecb.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="hero">
+        <img src="img/WhatsApp Image 2023-05-25 at 14.25.15.jpeg" alt="" class="hero-img" >
+        <h1>Ezy Sembiring</h1>
+        <h5>Status: Student</h5>
+        <p>Class: X RPL 1   
+        <br> Born: 13-08-2006
+        <br>       
+      </p>
+        <ul>
+           <li><a href="https://instagram.com/ezy_sembiring?igshid=YmMyMTA2M2Y="><i class="fa-brands fa-square-instagram"></i></a></li>
+           <li><a href="https://www.facebook.com/GuaBukanPreman"><i class="fa-brands fa-square-facebook"></i></a></li>
+           <li><a href="https://mail.google.com/mail/"><i class="fa-brands fa-google"></i></a></li>
+        </ul>
+    </div>
+   <script>
+    window.alert("HALLO PAK :)")
+   </script>
+   
+</body>
+</html>
